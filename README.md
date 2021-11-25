@@ -7,7 +7,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dfb_lhs/)
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdasilvahenrique&show_icons=true&theme=dracula)
+![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdasilvahenrique&show_icons=true&theme=radical)
+
 
 ## Tecnologias que uso no meu dia
 <br>
