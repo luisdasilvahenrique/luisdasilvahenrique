@@ -14,7 +14,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dfb_lhs/)
 <br>
 
-![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdasilvahenrique&show_icons=true&theme=radical)
+![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdasilvahenrique&show_icons=true&theme=dark)
 
 
 <kbd align="center">
