@@ -14,7 +14,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dfb_lhs/)
 <br>
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giacomellivinicius&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisdasilvahenrique=dark)](#)
 
 
 <kbd align="center">
