@@ -1,4 +1,5 @@
-### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Luís Henrique!
+### Olá, Eu sou o Luís Henrique!
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 <br>
 
 - 🎂 21 Anos
