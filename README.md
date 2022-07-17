@@ -4,8 +4,8 @@
 
 - 🎂 21 Anos
 - 💼 Não trabalho, mas estou atrás de oportunidades para crescer no mercado.
-- ❤️ Gosto de Front-end.
-- 📖 Atualmente cursando Redes de computadores.
+- ❤️ Desenvolvedor Front-end.
+- 📖 Atualmente cursando Bootcamp Ignite (Rocketseat).
 
 ##### 💬 Contatos
 
