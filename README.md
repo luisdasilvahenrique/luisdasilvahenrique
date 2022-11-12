@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 <br>
 
-- 💼 Não trabalho, mas estou atrás de oportunidades para crescer no mercado.
+- 💼 Em busca da minha oportunidade no mercado de trabalho.
 - ❤️ Desenvolvedor Front-end.
 - 📖 Atualmente cursando Bootcamp Ignite (Rocketseat).
 
