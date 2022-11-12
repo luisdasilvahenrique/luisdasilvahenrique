@@ -47,10 +47,6 @@
       <img align="center" title="nextjs" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
       <img align="center" title="elixir" alt="elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">        <br />
  <br />
- </kbd>
-
-### Tudo o que temos de decidir é o que fazer com o tempo que nos é dado.
-### (Gandalf)
 
 
 
