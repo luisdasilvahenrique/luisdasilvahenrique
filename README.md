@@ -4,7 +4,7 @@
 
 - 💼 Em busca da minha oportunidade no mercado de trabalho.
 - ❤️ Desenvolvedor Front-end.
-- 📖 Atualmente cursando Bootcamp Ignite (Rocketseat).
+- 📖 Bootcamp Ignite ReactJS | NextJs | TypeScript (Rocketseat).
 
 ##### 💬 Contatos
 
