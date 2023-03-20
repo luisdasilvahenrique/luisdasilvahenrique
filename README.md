@@ -6,8 +6,6 @@
 - ❤️ Desenvolvedor Front-end.
 - 📖 Bootcamp Ignite ReactJS | NextJs | TypeScript (Rocketseat).
 
-##### 💬 Contatos
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisdasilvahenrique&theme=github_dark)
 
 
