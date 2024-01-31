@@ -4,7 +4,7 @@
 
 - 💼 Em busca da minha oportunidade no mercado de trabalho.
 - ❤️ Desenvolvedor Front-end.
-- 📖 Bootcamp Ignite ReactJS | NextJs | TypeScript (Rocketseat), Introdução ao desenvolvimento mobile (IREDE) Java | Kotlin
+- 📖 Bootcamp Ignite ReactJS | NextJs | TypeScript (Rocketseat)</br>Introdução ao desenvolvimento mobile Java | Kotlin | Android studio (IREDE) .
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisdasilvahenrique&theme=github_dark)
 
